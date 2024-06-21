@@ -4,7 +4,7 @@ version = "0.1.0"
 description = "Functional library for Hy."
 authors = ["vhqr0 <zq_cmd@163.com>"]
 readme = "readme.org"
-packages = [{include = "hf"}]
+packages = [{include = "hy_functional"}]
 
 [tool.poetry.dependencies]
 python = "<3.13,>=3.12"
